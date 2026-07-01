@@ -1,0 +1,5 @@
+print("Find the number of digits in a Number")
+number = int(input("Enter the number:"))
+num =str(number)
+digit_count= len(num)
+print("The number of digits is",digit_count)
